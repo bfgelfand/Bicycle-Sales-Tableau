@@ -1,5 +1,5 @@
 # Bicycle-Sales-Tableau
-## [Data Visualization and Analysis](https://public.tableau.com/views/BikeStoresDashboard_16891873064490/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+## [Data Analysis and Visualization](https://public.tableau.com/views/BikeStoresDashboard_16891873064490/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ### Conclusions and/or Observations
 - Overall sales were highest in the year 2017 and in the store located in New York, Baldwin Bikes.
